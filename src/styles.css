@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.mr-auto{
+  display: flex;
+  justify-content: center;
+}
